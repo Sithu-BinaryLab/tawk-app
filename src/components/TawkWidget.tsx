@@ -9,8 +9,8 @@ const TawkWidget = () => {
     <div className="flex items-center justify-center mb-20">
       <TawkMessengerReact
         onLoad={onLoad}
-        propertyId="6707db76cec6d0125df4997d"
-        widgetId="1i9rb2iiq"
+        propertyId="6759c36c49e2fd8dfef68510"
+        widgetId="1iera6o1u"
       />
     </div>
   );
